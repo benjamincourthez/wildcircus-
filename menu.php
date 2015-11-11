@@ -4,19 +4,21 @@
 		<a href="home.php">Home</a>
 	</li>
 	<li>
-		<a href="theshow.php">The Show</a>
+		<a href="home.php">The Show</a>
 		<ul class="dropdown">
 	<li>
-		<a href="tomorrowland.html"></a>
+		<a href="shiva.php"><b>"Shiva": The Ice Quenn</b></a>
 			</li>
 			<li>
-				<a href="dvbbs.html">Dvbbs</a>
+				<a href="heloim.php"><b>"Héloim": The Magician</b></a>
 			</li>
 			<li>
-				<a href="nervo.html">Nervo</a>
-				<li>
+				<a href="Kumaha.php"><b>"Kumaha": The Trainer</b></a>
+				</li>
 	</ul>
 </li>
 <li>
-	<a href"contact.php">Contact</a>
+	<a href="lottery.php">Lottery</a>
 </li>
+<li>
+	<a href="contact.php">Contact</a>
